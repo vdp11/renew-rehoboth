@@ -1,0 +1,7 @@
+{
+  "name": "Renew Rehoboth - Premium Recruitment System",
+  "description": "A high-end recruitment agency management platform featuring a modular architecture, AI-powered candidate matching, and a professional cream and gold aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

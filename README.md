@@ -2,9 +2,20 @@
 
 **Prerequisites:**  Node.js
 
+Start this in a Linux environment
 
-1. Start this in a Linux environment
-2. Install dependencies:
+Install dependencies:
    `npm install`
-3. Run the app:
+   
+In the project directory, you can run:
+npm start
+
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
+
+The page will reload when you make changes.
+You may also see any lint errors in the console.
+
+For backend, Run the app:
    `npm run dev`
+
